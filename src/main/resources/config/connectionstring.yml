@@ -1,0 +1,5 @@
+DbConnectionString : "dbConnection"
+KafkaConnection : "KafkaConnection"
+chamadosDBServer : "localhost:3306/chamados_db?useTimezone=true&serverTimezone=UTC"
+chamadosDBUser : "root"
+chamadosDBPass : "dev@123"
